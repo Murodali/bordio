@@ -39,6 +39,8 @@ border-left: 1px solid #F3F3F3;
 border-right:  1px solid #F3F3F3;
 border-top: 2px solid #F3F3F3;
 margin-top: 0;
+height: 90vh;
+overflow: scroll;
 `
 
 export const TasksContainer = styled.div``
