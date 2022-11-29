@@ -6,7 +6,7 @@ background-color: #0F1D40;
 height:100vh;
 padding: 0px;
 grid-column-start: first;
-
+overflow: scroll;
 `
 
 export const LogoImage = styled.img`

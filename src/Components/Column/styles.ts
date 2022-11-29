@@ -2,6 +2,8 @@ import styled from "styled-components";
 
 export const ColumnContainer = styled.div`
 background-color: white;
+width: 100%;
+height: 100%;
 `
 
 export const Columntext = styled.p`
@@ -37,8 +39,6 @@ border-left: 1px solid #F3F3F3;
 border-right:  1px solid #F3F3F3;
 border-top: 2px solid #F3F3F3;
 margin-top: 0;
-height: 90%;
-
 `
 
 export const TasksContainer = styled.div``
