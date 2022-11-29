@@ -3,7 +3,7 @@ import styled from 'styled-components';
 
 export const SidebarContainer = styled.div`
 background-color: #0F1D40;
-height: 100vh;
+height:100vh;
 padding: 0px;
 grid-column-start: first;
 
